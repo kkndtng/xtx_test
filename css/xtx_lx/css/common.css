@@ -1,0 +1,33 @@
+.wrapper {
+    width: 1190px;
+    margin: 0 auto;
+}
+
+.wrapper>div>span.left {
+
+    height: 31px;
+    color: #999999;
+}
+
+.wrapper>div>span.right {
+
+    height: 31px;
+    color: #333333;
+}
+
+.wrapper>ul {
+    margin-top: 20px;
+    border-top: 1px solid #0aeb5d;
+}
+
+.wrapper .logo {
+    float: left;
+    width: 992px;
+    height: 76px;
+}
+
+.wrapper>ul>li>a {
+    float: left;
+    color: #333333;
+
+}
